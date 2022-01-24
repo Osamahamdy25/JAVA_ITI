@@ -1,0 +1,21 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 13, 2021, 1:26:43 PM
+    Author     : Osama Hamdy 
+*/
+
+#text{
+    -fx-fill: red;    
+    -fx-font-size: 30px;
+    -fx-font-weight: bold;
+}
+
+
+#rectangle{
+   -fx-fill: linear-gradient(from 0px 0px to 0px 175px, reflect, #000000, #ffffff);
+}
+/*}*/
